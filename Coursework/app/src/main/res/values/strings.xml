@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CorseworkApp</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="SexOnTheBeach">Sex on the beach </string>
+    <string name="Screwdriver">Screwdriver </string>
+    <string name="Double_Vodka"> 50ml of Vodka </string>
+    <string name="Double_PeachSchnapps"> 50ml of Peach Schnapps </string>
+    <string name="OJ"> 50ml of Orange juice </string>
+    <string name="Double_OJ"> 100ml of Orange juice </string>
+    <string name="Cranberry_juice"> 50ml of Cranberry juice</string>
+    <string name="read_more">Read more</string>
+    <string name="DundeeTaxis"> Dundee Taxis, Call now! </string>
+    <string name="CallNow">Call now!</string>
+    <string name="todo">TODO</string>
+    <string name="GlasgowTaxis">Glasgow Taxis, Call Now!</string>
+    <string name="place_custom_number_here">Place custom number here</string>
+    <string name="create_your_own">Create your Own!</string>
+    <string name="CustomHeader"> </string>
+    <string name="cocktails">Cocktails</string>
+    <string name="call_a_cab">Call a cab</string>
+    <string name="CustomBody"> </string>
+    <string name="best_time">Best time:</string>
+    <string name="savedbest_time"> </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="email">email</string>
+    <string name="name"> </string>
+    <string name="drink_name">Drink Name</string>
+    <string name="logout">Logout</string>
+    <string name="Search"> Search </string>
+    <string name="Name_of_Bar">What bar are you drinking at?</string>
+    <string name="SearchMap">Search for a bar</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Home_Icon"
+        android:icon="@drawable/ic_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/Map_Icon"
+        android:icon="@drawable/ic_map_24"
+        android:title="Map"/>
+
+    <item
+        android:id="@+id/Calander_Icon"
+        android:icon="@drawable/ic_calendar_today_24"
+        android:title="Calander"/>
+
+    <item
+        android:id="@+id/Timer_Icon"
+        android:icon="@drawable/ic_timer_24"
+        android:title="Timer"/>
+
+</menu>

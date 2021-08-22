@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3292250768",
+    "project_id": "corseworkapp",
+    "storage_bucket": "corseworkapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3292250768:android:fe8bacad5dbeeab99cce15",
+        "android_client_info": {
+          "package_name": "com.example.corseworkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3292250768-ctt3hm432qulgn7oip3454j859v8dun1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD947xW5DvqNmT-aznP9jToctv-G_6MkI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3292250768-ctt3hm432qulgn7oip3454j859v8dun1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
